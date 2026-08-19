@@ -12,3 +12,5 @@ Our goal is to develop novel analytical and imaging technologies that enable bio
 [AutoSpect](https://github.com/QE-Map/AutoSpect_compiled-InSpect) AutoSpect is a novel software tool designed to automate the processing and fitting of LA-ICP-TOF-MS data, addressing key challenges such as time-dependent spectral drift, instrument sensitivity drift, calibration inaccuracies, and peak deconvolution, enabling researchers to rapidly and accurately process complex datasets.
 
 [LA XFM Co-Registration Tool](https://github.com/QE-Map/Register_LA_XFM-compiled) Software tool to co-register laser ablation and x-ray fluorescence datasets.
+
+[M-BLANK](https://github.com/QE-Map/M-BLANK) Software tool to for fitting X-ray fluorescence spectra
