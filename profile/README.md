@@ -9,7 +9,8 @@ Our goal is to develop novel analytical and imaging technologies that enable bio
 
 ## Software
 
-[AutoSpect](https://github.com/QE-Map/AutoSpect_compiled-InSpect) AutoSpect is a novel software tool designed to automate the processing and fitting of LA-ICP-TOF-MS data, addressing key challenges such as time-dependent spectral drift, instrument sensitivity drift, calibration inaccuracies, and peak deconvolution, enabling researchers to rapidly and accurately process complex datasets.
+[AutoSpect Software Suite](https://github.com/QE-Map/AutoSpect-Software-Suite) AutoSpect is a software suite by [Dr. Andrew Crawford](https://github.com/Dr-Crawford) for processing, analyzing, visualizing, and quantifying mass spectrometry imaging data, with a focus on LA-ICP-TOF-MS. The suite includes automated spectral processing and correction, mass calibration, quantitative ROI analysis, image registration, and interactive data visualization through the InSpect interface.
+[doi.org/10.1039/D5JA00145E](https://doi.org/10.1039/D5JA00145E)
 
 [LA XFM Co-Registration Tool](https://github.com/QE-Map/Register_LA_XFM-compiled) Software tool to co-register laser ablation and x-ray fluorescence datasets.
 
